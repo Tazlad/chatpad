@@ -34,7 +34,7 @@ export function IndexRoute() {
             <Logo style={{ maxWidth: 240 }} />
           </Text>
           <Text mt={4} size="xl">
-            Not just another ChatGPT user-interface!
+            Write progress notes with ease!
           </Text>
           <SimpleGrid
             mt={50}
@@ -98,7 +98,7 @@ const features = [
     icon: IconLock,
     title: "Privacy focused",
     description:
-      "No tracking, no cookies, no bullshit. All your data is stored locally.",
+      "No tracking, no cookies, client data respected. All data is stored locally.",
   },
   {
     icon: IconNorthStar,
